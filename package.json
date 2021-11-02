@@ -1,0 +1,19 @@
+{
+  "name": "dri-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ipinfo": "^1.5.1",
+    "netlify-lambda": "^2.0.15",
+    "request-ip": "^2.1.3",
+    "serverless-http": "^2.7.0"
+  },
+  "description": ""
+}
